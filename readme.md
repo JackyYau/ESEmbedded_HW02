@@ -55,4 +55,4 @@ This is the hw02 sample. Please follow the steps below.
 
 --------------------
 
-Please take your note here.
+`push {r0, r1, r2}` and `push {r2, r0, r1}` act in the same way.
